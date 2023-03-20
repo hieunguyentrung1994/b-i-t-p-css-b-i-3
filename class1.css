@@ -1,0 +1,97 @@
+h1{
+    font-family: sans-serif;
+    font-weight:30px;
+    font-size: 20px
+
+}
+#boctach{
+    background-color: antiquewhite;
+    border-left: 5px solid red;
+    padding: 25px 20px;
+}
+.red{
+    color:red
+}
+.bang{
+    border: 2px solid green;
+    text-align: center;
+    padding: 10px 0;
+}
+.maunau{
+    color: brown
+}
+.xanhdam{
+    color:rgb(13, 0, 255)
+}
+.boctachxanh{
+    background-color: antiquewhite;
+    border-left: 3px solid rgb(92, 47, 255) ;
+    padding: 10px
+}
+.mauphongxanh{
+    background-color: green;
+}
+#phongchu{
+    border: 1px;
+        width:300px;
+        margin: 100px;
+        padding=80px
+   
+}
+.bangkhongvien{
+     border: 1px;
+        width:300px;
+        margin: 100px;
+        padding=80px
+}
+.mauphong{
+    background-color: rgb(30, 43, 224);
+}
+.bangtheto{
+    border: 2px solid black;
+    width: 1000px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.phongtrang{
+    background-color: rgb(254, 253, 252);
+}
+.bang1{
+text-align: right;
+background-color: blue;
+width:300px ;
+margin-left: 300px;
+font-size: medium;
+border-radius:5px
+}
+.bang11{
+    border:1px solid black;
+    width: 500px
+    ;
+
+
+}
+.bochobentrai{
+text-align:center;
+background-color: blue;
+width:200px ;
+margin-left: 300px;
+font-size: medium;
+border-radius:5px
+
+}
+.hinhchong{
+    background-color: blue;color:blue;
+}
+.de1{
+    margin-left: 300px;
+    background-color:aliceblue;
+}
+.img{
+    border: 1px solid black;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    width: 250px;
+}
+
